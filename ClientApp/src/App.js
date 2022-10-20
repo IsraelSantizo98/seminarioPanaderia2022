@@ -84,7 +84,8 @@ const App = () => {
                                     <button className="dropdown-item" onClick={mostrarModalSalir}>
                                       <i className="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
                                       Salir
-                                  </button>
+                                    </button>
+
                             </div>
                         </li>
 

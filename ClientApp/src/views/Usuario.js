@@ -149,6 +149,7 @@ const Usuario = () => {
     const cerrarModal = () => {
         setUsuario(modeloUsuario)
         setVerModal(!verModal);
+        //code
     }
 
     const guardarCambios = async () => {
